@@ -1,0 +1,13 @@
+.Btn{
+    background-color: white;
+    margin-left: 3rem;
+
+    }
+    .inputData{
+        font-size: 20px;
+        border: 1px solid red;
+    }
+
+    .apexcharts-canvas{
+        background-color: aquamarine;
+    }

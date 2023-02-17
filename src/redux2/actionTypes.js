@@ -1,0 +1,10 @@
+
+
+
+    export const GET_REAL_DATA_REQUEST = "GET_DATA_REQUEST"
+    export const GET_REAL_DATA_SUCCESS = "GET_DATA_SUCCESS"
+    export const GET_REAL_DATA_FAILUER = "GET_DATA_FAILUER"
+
+
+
+    
